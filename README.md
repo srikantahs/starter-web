@@ -13,4 +13,8 @@ this change is only in staging area
 
 change at 915 pm from local
 
+<<<<<<< HEAD
 changes in branch1
+=======
+changes from branch1 local
+>>>>>>> branch1
