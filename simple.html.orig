@@ -1,11 +1,19 @@
 <!DOCTYPE html>
 <!--
+
+before rebasing
+<<<<<<< HEAD
+changes from master branch for rebase
+
+=======
+adding trouble
+>>>>>>> 030bea7 (adding trouble)
 Copy right 2022 dec Srikanta
 merge conflicts 1006 am
 -->
 <head>
 <<<<<<< HEAD
-	<title>master Title</title>
+	<title>push to github</title>
 =======
 	<title>realwork Title</title>
 >>>>>>> realwork
