@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+automerge changes from master 945 am
+
 updating the readme file 23 dec 930 am
 
 This repository is for showing how Git and GitHub work
