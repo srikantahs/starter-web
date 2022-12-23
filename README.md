@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+updating the readme file 23 dec 930 am
+
 This repository is for showing how Git and GitHub work
 
 ## Purpose
